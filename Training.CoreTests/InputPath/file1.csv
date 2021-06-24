@@ -1,0 +1,2 @@
+IdSensore,NomeTipoSensore,UnitaMisura,Idstazione,NomeStazione,Quota,Provincia,Comune,Storico,DataStart,DataStop,Utm_Nord,UTM_Est,lat,lng,location
+12613,Nikel,ng/m³,670,Mantova - S.Agnese,22,MN,Mantova,N,19/02/2008,,5002356,641122,45.16056833010576,10.79556411370788,"(45.16056833010576, 10.79556411370788)"
